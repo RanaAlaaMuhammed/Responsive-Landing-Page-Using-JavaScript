@@ -4,6 +4,7 @@
 
 * [Description](#description)
 * [Files](#files)
+* [Navigation](#navigation)
 
 ## Description
 
@@ -14,3 +15,7 @@ The purpose of this project is to design a dynamically responsive webpage using 
 - index.html
 - styles.css
 - README.md.
+
+## Navigation
+
+This webpage has a navigation bar that scrolls smoothly to each section depending on what the user clicks. Also it highlights the section the user is currently in.
